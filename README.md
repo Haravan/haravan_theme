@@ -1,5 +1,5 @@
 
-# Edit Your Haravan Theme Locally
+# Edit Your Haravan Theme Locally (deprecated, Stop support since 2020)
 [![Gem Version](https://badge.fury.io/rb/haravan_theme.svg)](http://badge.fury.io/rb/haravan_theme)
 
 ![Haravan theme gem](https://dl.dropboxusercontent.com/u/669627/terminalreadme.png)
